@@ -10,6 +10,7 @@ Files here are **not** built automatically.
 | `opencv_camera.cpp` | Reads the camera with OpenCV and runs edge detection (C++, see notes) |
 | `mjpeg_stream.c` | Live USB camera feed to a browser (`http://<board-ip>:8080/`), survives replugging |
 | `feature_stream.c` | FAST corner detection on the board, streamed live as a feature-point map (needs `third_party/`) |
+| `motion_rays.c` | Detects moving objects, draws bounding boxes, converts each to a 3D camera ray; streams it and can send rays over UDP (needs `third_party/`) |
 | `braid_client.c` | Receives live 3D tracking from Strand-Braid and optionally forwards it over UDP |
 
 ## Using one
