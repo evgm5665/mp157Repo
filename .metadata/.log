@@ -1,0 +1,58 @@
+!SESSION 2026-10-02 23:41:21.905 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/eva/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/eva/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-02 23:41:37.638
+!MESSAGE Log4j2 initialized with config file /Applications/STMicroelectronics/STM32CubeMX.app/D1_LED_TEST/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-02 23:41:39.060
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-10-02 23:42:50.223
+!MESSAGE Indexed 'orange' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.launch 2 0 2026-10-02 23:45:44.985
+!MESSAGE Won't launch debug session since we failed to locate the binary.
+!SESSION 2026-10-20 14:11:39.891 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/eva/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/eva/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-20 14:11:47.558
+!MESSAGE Log4j2 initialized with config file /Applications/STMicroelectronics/STM32CubeMX.app/D1_LED_TEST/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-20 14:11:50.077
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-10-20 14:12:53.398 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/eva/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/eva/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-20 14:13:20.170
+!MESSAGE Log4j2 initialized with config file /Applications/STMicroelectronics/STM32CubeMX.app/D1_LED_TEST/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-20 14:13:22.613
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-10-20 14:14:37.412 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/eva/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/eva/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-20 14:14:58.898
+!MESSAGE Log4j2 initialized with config file /Applications/STMicroelectronics/STM32CubeMX.app/D1_LED_TEST/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-20 14:15:01.103
+!MESSAGE Started RMI Server, listening on port 41337
